@@ -83,6 +83,15 @@ canonifyurls = true
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
   url = "https://github.com/jeremejazz"
+
+  [[menu.links]]
+  weight = 3
+  identifier = "contact"
+  name = "Contact"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-envelope\"></i>"
+  url = "/contact"
+
+  
 # [[menu.links]]
 #   weight = 2
 #   identifier = "stackoverflow"
@@ -166,7 +175,7 @@ canonifyurls = true
 
   # Custom CSS. Put here your custom CSS files. They are loaded after the theme CSS;
   # they have to be referred from static root. Example
-  # customCSS = ["css/foo.css"]
+  customCSS = ["css/forms-min.css"]
 
   # Custom JS. Put here your custom JS files. They are loaded after the theme JS;
   # they have to be referred from static root. Example
