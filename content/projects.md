@@ -9,3 +9,4 @@ showMeta:       false
 - PHPPad
 - Olivarez Maps
 - XtremeLoader
+- 19EastApp
