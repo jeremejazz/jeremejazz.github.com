@@ -123,7 +123,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "I'm Jereme Causing, the author of this blog. And I love sharing knowledge to the internet."
+  description = "I'm Jereme Causing, the author of this blog. I enjoy software development both as a profession and a hobby. It’s fun and lets you learn a lot"
 
   # Customization
   # Define the behavior of the sidebar
