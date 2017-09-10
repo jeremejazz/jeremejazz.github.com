@@ -15,7 +15,7 @@
 baseurl = "http://jeremecausing.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Jereme Causing"
+title = "Jereme Causing - Software Developer "
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "jeremecausing"
 # googleAnalytics = "UA-123-45"
@@ -36,10 +36,10 @@ canonifyurls = true
   job = "Software Developer"
   location = "Philippines"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "jeremejazz15@gmail.com"
+  gravatarEmail = ""
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = ""
+  picture = "https://res.cloudinary.com/jereme/image/upload/v1505054161/jeremejazz/jereme_avatar.png"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -82,13 +82,13 @@ canonifyurls = true
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-  url = "https://github.com/kakawait"
-[[menu.links]]
-  weight = 2
-  identifier = "stackoverflow"
-  name = "Stack Overflow"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
-  url = "https://stackoverflow.com/users/636472/kakawait"
+  url = "https://github.com/jeremejazz"
+# [[menu.links]]
+#   weight = 2
+#   identifier = "stackoverflow"
+#   name = "Stack Overflow"
+#   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
+#   url = "https://stackoverflow.com/users/636472/kakawait"
 
 [[menu.misc]]
   weight = 1
@@ -114,7 +114,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "Hugo tranquilpeak theme demo"
+  description = "I'm Jereme Causing, the author of this blog. And I love sharing knowledge to the internet."
 
   # Customization
   # Define the behavior of the sidebar

@@ -5,11 +5,11 @@ tags:
   - version control
   - git
 author: jereme
-coverImage: /assets/images/version-control/branching-git.png
+coverImage: /images/version-control/branching-git.png
 thumbnailImagePosition: left
 thumbnail_image: true
 autoThumbnailImage: yes
-thumbnailImage: images/vcs_crop.png
+thumbnailImage: /images/version-control/vcs_crop.png
 categories:
   - Development
 
@@ -29,20 +29,20 @@ Even though such system exists, a lot of developers still prefer the old fashion
 
 Here are a few common reasons why every programmer or teams should be using distributed version control systems.
 
-  1. **Backup**. <img class="aligncenter wp-image-203 size-medium" title="Photo from hginit.com" src="/assets/images/version-control/file-copies-300x188.png" alt="file-copies" width="300" height="188"  sizes="(max-width: 300px) 100vw, 300px" />
+  1. **Backup**. <img class="aligncenter wp-image-203 size-medium" title="Photo from hginit.com" src="/images/version-control/file-copies-300x188.png" alt="file-copies" width="300" height="188"  sizes="(max-width: 300px) 100vw, 300px" />
   Most DVCS has this feature called commit. When the developer commits his/her code, it creates a snapshot of the changes made to that project and is stored on the local workstation. Like a time machine, you can view your past revisions, or get some code you have erased in the past. Not only that, you can push your changes on a centralized server like Github, and whenever someone pulls those changes, they too can have a copy of the revisions you did alone with your latest code.
 
   2. **Collaboration and Merging**. 
-  <img  title="Photo from atlassian.com" src="/assets/images/version-control/centralized-collaboration-300x152.png" alt="centralized-collaboration" width="300" height="152" sizes="(max-width: 300px) 100vw, 300px" />
+  <img  title="Photo from atlassian.com" src="/images/version-control/centralized-collaboration-300x152.png" alt="centralized-collaboration" width="300" height="152" sizes="(max-width: 300px) 100vw, 300px" />
   This is also an important tool especially when working with others. Softwares like Git/Mercurial allow you to merge the changes you have made. In fact, they have a smart way of merging code automatically especially when changes are not made on the same lines. But if the smart merge can’t figure out how to merge it since you’ve edited the same lines which can’t be avoided, a mark is added which can be easilly found that there is a conflict on those files. In fact, there are also free visual tools that make manual merging more easier.
   As I mentioned in #1, all commits are distributed to everyone who pulls the changes (Yes, that’s why it’s called Distributed Version Control). Everyone can see what changes were made by the other developer, you can even check how long was he able to make the change or when was the change made
 
-  3. **Branching**. <img class="size-medium wp-image-204 aligncenter" src="/assets/images/version-control/branching-concept-300x125.png" alt="branching-concept" width="300" height="125"  />
+  3. **Branching**. <img class="size-medium wp-image-204 aligncenter" src="/images/version-control/branching-concept-300x125.png" alt="branching-concept" width="300" height="125"  />
   This is a bit more advanced workflow in collaboration but can also applicable even to those who are working alone. When you don’t want your change to affect what others are doing, like probably you are working on an enhancement and it might interrupt on the work of your teammate or you just want to do some changes to be thrown away later, you can simply use branching. If you’re into sci-fi (like me), branching is somehow like creating alternate timelines. Well basically, you are just making a new path for your revisions which if it turns out right you can merge it to your main branch. In fact everything you work on in either Git or Mercurial is a branch which just happens to be a default branch at start. Merge conflicts even create temporary branches that are merged after they are resolved. Branching is a very powerful feature of DVCS
 
-  4. **It’s Free!** <img class="size-medium wp-image-205 aligncenter" src="/assets/images/misc/free-300x206.gif" alt="free" width="300" height="206"  sizes="(max-width: 300px) 100vw, 300px" />Well yeah probably one of the best perks in life come in free. You don’t even need to spend a dime on popular programs like Git or Mercurial. In fact, the creator of Git, Linus Torvalds (the same guy who created Linux), worked on this because the current free closed-source version control system he was using was no longer free. Git and Mercurial will always be free to use as it uses a free and open source license. Although there are also some paid softwares, you&#8217;ll do fine with the free ones.
+  4. **It’s Free!** <img class="size-medium wp-image-205 aligncenter" src="/images/misc/free-300x206.gif" alt="free" width="300" height="206"  sizes="(max-width: 300px) 100vw, 300px" />Well yeah probably one of the best perks in life come in free. You don’t even need to spend a dime on popular programs like Git or Mercurial. In fact, the creator of Git, Linus Torvalds (the same guy who created Linux), worked on this because the current free closed-source version control system he was using was no longer free. Git and Mercurial will always be free to use as it uses a free and open source license. Although there are also some paid softwares, you&#8217;ll do fine with the free ones.
 
-  5. **Contributing to Open Source** <img  src="/assets/images/misc/bart_os-300x209.gif" alt="bart_os" width="300" height="209" sizes="(max-width: 300px) 100vw, 300px" /> If you would like to contribute to open source projects especially those hosted in Github or Bitbucket, you would need DVCS like Git in order to make pull requests. They have a workflow when it comes to contributing such as forking the project (creating a copy) and you can make a pull request to apply the changes to the original project.
+  5. **Contributing to Open Source** <img  src="/images/misc/bart_os-300x209.gif" alt="bart_os" width="300" height="209" sizes="(max-width: 300px) 100vw, 300px" /> If you would like to contribute to open source projects especially those hosted in Github or Bitbucket, you would need DVCS like Git in order to make pull requests. They have a workflow when it comes to contributing such as forking the project (creating a copy) and you can make a pull request to apply the changes to the original project.
 
 **Conclusion**
 
