@@ -9,7 +9,7 @@ coverImage: /assets/images/version-control/branching-git.png
 thumbnailImagePosition: left
 thumbnail_image: true
 autoThumbnailImage: yes
-thumbnailImage: vcs_crop.png
+thumbnailImage: images/vcs_crop.png
 categories:
   - Development
 
