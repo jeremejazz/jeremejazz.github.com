@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jereme Causing</title>
-    <link>https://jeremecausing.com/tags/</link>
+    <link>http://jeremecausing.com/tags/</link>
     <description>Recent content in Tags on Jereme Causing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 21 Nov 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jeremecausing.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jeremecausing.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Git</title>
-      <link>https://jeremecausing.com/tags/git/</link>
+      <link>http://jeremecausing.com/tags/git/</link>
       <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://jeremecausing.com/tags/git/</guid>
+      <guid>http://jeremecausing.com/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Version Control</title>
-      <link>https://jeremecausing.com/tags/version-control/</link>
+      <link>http://jeremecausing.com/tags/version-control/</link>
       <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://jeremecausing.com/tags/version-control/</guid>
+      <guid>http://jeremecausing.com/tags/version-control/</guid>
       <description></description>
     </item>
     
