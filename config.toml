@@ -12,10 +12,10 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseurl = "https://jeremejazz.github.io/"
+baseurl = "http://jeremecausing.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Jereme Causing - Software Developer "
+title = "Jereme Causing"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "jeremecausing"
 # googleAnalytics = "UA-123-45"

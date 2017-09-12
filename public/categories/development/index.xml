@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Development on Jereme Causing - Software Developer </title>
-    <link>https://jeremejazz.github.io/categories/development/</link>
-    <description>Recent content in Development on Jereme Causing - Software Developer </description>
+    <title>Development on Jereme Causing</title>
+    <link>http://jeremecausing.com/categories/development/</link>
+    <description>Recent content in Development on Jereme Causing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 21 Nov 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jeremejazz.github.io/categories/development/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jeremecausing.com/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Importance of Distributed Version Control Systems</title>
-      <link>https://jeremejazz.github.io/2015/11/the-importance-of-distributed-version-control-systems/</link>
+      <link>http://jeremecausing.com/2015/11/the-importance-of-distributed-version-control-systems/</link>
       <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://jeremejazz.github.io/2015/11/the-importance-of-distributed-version-control-systems/</guid>
+      <guid>http://jeremecausing.com/2015/11/the-importance-of-distributed-version-control-systems/</guid>
       <description>These days, the use of Distributed Version Control Systems (DVCS) has become a standard in most large products. It is an automated to save a lot of tasks, and resources such as disk space.
 What is DVCS?
 For those who don’t know what distributed version control is, it is an automated way of storing changes on your code while collaborating with other programmers under that shared project. Think of it as creating backup copies of your project on your drive (and probably adding dates on your compressed folders) and merging your latest code with your teammate.</description>
