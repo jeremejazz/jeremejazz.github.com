@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Jereme Causing - Software Developer </title>
-    <link>https://jeremejazz.github.io/categories/</link>
-    <description>Recent content in Categories on Jereme Causing - Software Developer </description>
+    <title>Categories on Jereme Causing</title>
+    <link>http://jeremecausing.com/categories/</link>
+    <description>Recent content in Categories on Jereme Causing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://jeremejazz.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jeremecausing.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>https://jeremejazz.github.io/categories/development/</link>
+      <link>http://jeremecausing.com/categories/development/</link>
       <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://jeremejazz.github.io/categories/development/</guid>
+      <guid>http://jeremecausing.com/categories/development/</guid>
       <description></description>
     </item>
     
