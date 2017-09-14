@@ -18,7 +18,7 @@ defaultContentLanguage = "en-us"
 title = "Jereme Causing"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "jeremecausing"
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-59805255-1"
 paginate = 7
 canonifyurls = true
 
@@ -41,9 +41,9 @@ canonifyurls = true
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "https://res.cloudinary.com/jereme/image/upload/v1505054161/jeremejazz/jereme_avatar.png"
   # Your Twitter username without the @. E.g : thibaudlepretre
-  # twitter = "thibaudlepretre"
+  twitter = "jeremecausing"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
-  # googlePlus = "+ThibaudLepretre"
+  googlePlus = "+JeremeCausing"
 
 # Menu Configuration
 [[menu.main]]
