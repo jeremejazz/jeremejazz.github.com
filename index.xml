@@ -6,10 +6,19 @@
     <description>Recent content on Jereme Causing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Sep 2017 22:47:58 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 10 Sep 2017 23:19:08 +0800</lastBuildDate>
     
 	<atom:link href="http://jeremecausing.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projects</title>
+      <link>http://jeremecausing.com/projects/</link>
+      <pubDate>Sun, 10 Sep 2017 23:19:08 +0800</pubDate>
+      
+      <guid>http://jeremecausing.com/projects/</guid>
+      <description> PHPPad - Run input PHP scripts on the web browser Olivarez Maps - Indoor university maps XtremeLoader - Hybrid App for eload (WIP) 19EastApp - Fetches schedule for upcoming gigs  </description>
+    </item>
     
     <item>
       <title>Contact</title>

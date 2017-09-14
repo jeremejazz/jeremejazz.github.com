@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://jeremecausing.com/projects/</loc>
+    <lastmod>2017-09-10T23:19:08+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://jeremecausing.com/contact/</loc>
     <lastmod>2017-09-10T22:47:58+08:00</lastmod>
   </url>
@@ -36,7 +41,7 @@
   
   <url>
     <loc>http://jeremecausing.com/</loc>
-    <lastmod>2017-09-10T22:47:58+08:00</lastmod>
+    <lastmod>2017-09-10T23:19:08+08:00</lastmod>
     <priority>0</priority>
   </url>
   
