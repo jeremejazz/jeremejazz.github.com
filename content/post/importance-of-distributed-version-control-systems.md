@@ -5,7 +5,6 @@ tags:
   - version control
   - git
 author: jereme
-coverImage: /images/version-control/branching-git.png
 thumbnailImagePosition: left
 thumbnail_image: true
 autoThumbnailImage: yes

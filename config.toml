@@ -32,7 +32,7 @@ canonifyurls = true
 
 [author]
   name = "Jereme Causing"
-  bio = "Developer | Blogger | Pythonista"
+  bio = "Developer | Blogger | Adventurer"
   job = "Software Developer"
   location = "Philippines"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
