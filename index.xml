@@ -40,5 +40,16 @@ What is DVCS?
 For those who don’t know what distributed version control is, it is an automated way of storing changes on your code while collaborating with other programmers under that shared project. Think of it as creating backup copies of your project on your drive (and probably adding dates on your compressed folders) and merging your latest code with your teammate.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://jeremecausing.com/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jeremecausing.com/readme/</guid>
+      <description> Jereme&amp;rsquo;s Personal Website Hi you&amp;rsquo;ve just landed in the repository of jeremecausing.com. Source code used to build this website can be found in the hugo branch
+This website is powered by the following technologies:
+ Hugo - A static site generator powered by Go Programming Language hugo-tranquilpeak-theme - A port of the amazing theme hexo-tranquilpeak-theme purecss forms Github Pages - One of the best things that ever happened  </description>
+    </item>
+    
   </channel>
 </rss>
