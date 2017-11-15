@@ -8,7 +8,7 @@ echo "removing public "
 rm -rf public
 git subtree add --prefix=public git@github.com:jeremejazz/jeremejazz.github.com.git master --squash
 
-# git subtree pull --prefix=public  git@github.com:jeremejazz/jeremejazz.github.com.git master
+git subtree pull --prefix=public  git@github.com:jeremejazz/jeremejazz.github.com.git master
 #run hugo compiler
 echo "building public folder"
 /usr/bin/env hugo
