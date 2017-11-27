@@ -41,3 +41,9 @@ There has been a lot of discussion where I haven't attended too since the event 
 
 
 ![Group Photo](http://res.cloudinary.com/jereme/image/upload/c_scale,w_482/v1511766073/IMG_20171119_110921_ctarcv.jpg)
+
+
+
+---
+#### Image source: 
+[Devcon Philippines Facebook Page](https://www.facebook.com/DevConPH/)
