@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://jeremecausing.com/2017/11/devcon-summit-ph-2017-a-retrospective/</loc>
+    <lastmod>2017-11-26T13:53:13+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://jeremecausing.com/projects/</loc>
     <lastmod>2017-09-10T23:19:08+08:00</lastmod>
   </url>
@@ -40,13 +45,13 @@
   
   <url>
     <loc>http://jeremecausing.com/</loc>
-    <lastmod>2017-09-10T23:19:08+08:00</lastmod>
+    <lastmod>2017-11-26T13:53:13+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jeremecausing.com/post/</loc>
-    <lastmod>2015-11-21T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-26T13:53:13+08:00</lastmod>
     <priority>0</priority>
   </url>
   
