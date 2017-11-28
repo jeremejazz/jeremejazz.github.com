@@ -92,7 +92,7 @@ canonifyurls = true
   identifier = "contact"
   name = "Contact"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-envelope\"></i>"
-  url = "/contact"
+  url = "https://docs.google.com/forms/d/e/1FAIpQLScxcwXEmiiYZukVZ7tCAwsH-EJ280dKhHbLSdG8JI__UM5G6A/viewform?usp=sf_link" #temporary for the moment before creating custom google form page
 
 
 [[menu.misc]]
