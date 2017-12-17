@@ -25,10 +25,10 @@ canonifyurls = true
 [permalinks]
   post = "/:year/:month/:slug/"
 
-# [taxonomies]
-#   tag = "tags"
-#   category = "categories"
-#   archive = "archives"
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  archive = "archives"
 
 [author]
   name = "Jereme Causing"
@@ -95,8 +95,8 @@ canonifyurls = true
   url = "https://docs.google.com/forms/d/e/1FAIpQLScxcwXEmiiYZukVZ7tCAwsH-EJ280dKhHbLSdG8JI__UM5G6A/viewform?usp=sf_link" #temporary for the moment before creating custom google form page
 
 
-[[menu.misc]]
-  weight = 1
+[[menu.links]]
+  weight = 4
   identifier = "rss"
   name = "RSS"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-rss\"></i>"
