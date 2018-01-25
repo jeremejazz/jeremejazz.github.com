@@ -3,71 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://jeremecausing.com/2017/11/devcon-summit-ph-2017-a-retrospective/</loc>
+    <loc>https://jeremecausing.com/2017/11/devcon-summit-ph-2017-a-retrospective/</loc>
     <lastmod>2017-11-26T13:53:13+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jeremecausing.com/projects/</loc>
+    <loc>https://jeremecausing.com/projects/</loc>
     <lastmod>2017-09-10T23:19:08+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jeremecausing.com/contact/</loc>
+    <loc>https://jeremecausing.com/contact/</loc>
     <lastmod>2017-09-10T22:47:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jeremecausing.com/2015/11/the-importance-of-distributed-version-control-systems/</loc>
+    <loc>https://jeremecausing.com/2015/11/the-importance-of-distributed-version-control-systems/</loc>
     <lastmod>2015-11-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jeremecausing.com/readme/</loc>
+    <loc>https://jeremecausing.com/readme/</loc>
   </url>
   
   <url>
-    <loc>http://jeremecausing.com/archives/</loc>
+    <loc>https://jeremecausing.com/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jeremecausing.com/categories/</loc>
+    <loc>https://jeremecausing.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jeremecausing.com/categories/development/</loc>
-    <lastmod>2015-11-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jeremecausing.com/tags/git/</loc>
+    <loc>https://jeremecausing.com/categories/development/</loc>
     <lastmod>2015-11-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jeremecausing.com/</loc>
+    <loc>https://jeremecausing.com/tags/git/</loc>
+    <lastmod>2015-11-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jeremecausing.com/</loc>
     <lastmod>2017-11-26T13:53:13+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jeremecausing.com/post/</loc>
+    <loc>https://jeremecausing.com/post/</loc>
     <lastmod>2017-11-26T13:53:13+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jeremecausing.com/tags/</loc>
+    <loc>https://jeremecausing.com/tags/</loc>
     <lastmod>2015-11-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jeremecausing.com/tags/version-control/</loc>
+    <loc>https://jeremecausing.com/tags/version-control/</loc>
     <lastmod>2015-11-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

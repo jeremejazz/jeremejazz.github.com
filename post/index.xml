@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Jereme Causing</title>
-    <link>http://jeremecausing.com/post/</link>
+    <link>https://jeremecausing.com/post/</link>
     <description>Recent content in Posts on Jereme Causing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Nov 2017 13:53:13 +0800</lastBuildDate>
     
-	<atom:link href="http://jeremecausing.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jeremecausing.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Devcon Summit PH 2017: A Retrospective</title>
-      <link>http://jeremecausing.com/2017/11/devcon-summit-ph-2017-a-retrospective/</link>
+      <link>https://jeremecausing.com/2017/11/devcon-summit-ph-2017-a-retrospective/</link>
       <pubDate>Sun, 26 Nov 2017 13:53:13 +0800</pubDate>
       
-      <guid>http://jeremecausing.com/2017/11/devcon-summit-ph-2017-a-retrospective/</guid>
+      <guid>https://jeremecausing.com/2017/11/devcon-summit-ph-2017-a-retrospective/</guid>
       <description>Devcon, a non-profit organization that aids developers, held it&amp;rsquo;s 2-day summit last November 18, 2017 at SM Aura, BGC, Taguig. The theme is &amp;ldquo;Changing the Game&amp;rdquo; which refers to the main topics the event is divided into four groups, namely Blockchain, Devops, AI, and Cybersecurity. These fields are known to be the current game changers and offers new career paths.
 Blockchains This field offered new opportunities in the industry apart from cryptocurrencies.</description>
     </item>
     
     <item>
       <title>The Importance of Distributed Version Control Systems</title>
-      <link>http://jeremecausing.com/2015/11/the-importance-of-distributed-version-control-systems/</link>
+      <link>https://jeremecausing.com/2015/11/the-importance-of-distributed-version-control-systems/</link>
       <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://jeremecausing.com/2015/11/the-importance-of-distributed-version-control-systems/</guid>
+      <guid>https://jeremecausing.com/2015/11/the-importance-of-distributed-version-control-systems/</guid>
       <description>These days, the use of Distributed Version Control Systems (DVCS) has become a standard in most large products. It is an automated to save a lot of tasks, and resources such as disk space.
 What is DVCS?
 For those who don’t know what distributed version control is, it is an automated way of storing changes on your code while collaborating with other programmers under that shared project. Think of it as creating backup copies of your project on your drive (and probably adding dates on your compressed folders) and merging your latest code with your teammate.</description>
