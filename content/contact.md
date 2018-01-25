@@ -7,7 +7,7 @@ showMeta:       false
 
 ---
 
-<form class="pure-form" action="//formspree.io/gmail@jeremecausing.com" method="POST" name="sentMessage" id="contactForm" >
+<form class="pure-form" action="" method="POST" name="contact" id="contactForm" netlify>
     <div class="row control-group">
         <div class="form-group col-xs-12 floating-label-form-group controls">
             <label>Name</label>
