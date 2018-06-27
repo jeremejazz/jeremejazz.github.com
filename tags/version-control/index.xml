@@ -13,10 +13,10 @@
     
     <item>
       <title>The Importance of Distributed Version Control Systems</title>
-      <link>https://jeremecausing.com/2015/11/the-importance-of-distributed-version-control-systems/</link>
+      <link>https://jeremecausing.com/post/the-importance-of-distributed-version-control-systems/</link>
       <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://jeremecausing.com/2015/11/the-importance-of-distributed-version-control-systems/</guid>
+      <guid>https://jeremecausing.com/post/the-importance-of-distributed-version-control-systems/</guid>
       <description>These days, the use of Distributed Version Control Systems (DVCS) has become a standard in most large products. It is an automated to save a lot of tasks, and resources such as disk space.
 What is DVCS?
 For those who don’t know what distributed version control is, it is an automated way of storing changes on your code while collaborating with other programmers under that shared project. Think of it as creating backup copies of your project on your drive (and probably adding dates on your compressed folders) and merging your latest code with your teammate.</description>
