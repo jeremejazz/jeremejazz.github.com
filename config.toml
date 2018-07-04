@@ -52,25 +52,33 @@ canonifyurls = true
   name = "Home"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
   url = "/"
-[[menu.main]]
-  weight = 2
-  identifier = "categories"
-  name = "Categories"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
-  url = "/categories"
+# [[menu.main]]
+#   weight = 2
+#   identifier = "categories"
+#   name = "Categories"
+#   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
+#   url = "/categories"
+# [[menu.main]]
+#   weight = 3
+#   identifier = "tags"
+#   name = "Tags"
+#   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
+#   url = "/tags"
 [[menu.main]]
   weight = 3
-  identifier = "tags"
-  name = "Tags"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
-  url = "/tags"
+  identifier = "projects"
+  name = "Projects"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-terminal\"></i>"
+  url = "/projects"
+  
+
 [[menu.main]]
   weight = 4
   identifier = "archives"
   name = "Archives"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
   url = "/archives"
-  
+
 # [[menu.main]]
 #   weight = 5
 #   identifier = "about"
@@ -95,12 +103,12 @@ canonifyurls = true
   url = "/contact" #temporary for the moment before creating custom google form page
 
 
-[[menu.links]]
-  weight = 4
-  identifier = "rss"
-  name = "RSS"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-rss\"></i>"
-  url = "/index.xml"
+# [[menu.links]]
+#   weight = 4
+#   identifier = "rss"
+#   name = "RSS"
+#   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-rss\"></i>"
+#   url = "/index.xml"
 
 [params]
   # Customize date format use to render blog post date, categories and other
@@ -207,4 +215,4 @@ canonifyurls = true
 
   # Customize copyright value "© 2016 <CUSTOMIZATION>. All Rights Reserved"
   [params.footer]
-    copyright = "Deploys on <a href=\"https://www.netlify.com\">netlify.com</a>Theme by Tranquilpeak"
+    copyright = "Deploys on <a href=\"https://www.netlify.com\">netlify.com</a>. Theme by Tranquilpeak"
