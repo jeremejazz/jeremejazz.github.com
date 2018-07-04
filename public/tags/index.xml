@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Jereme Causing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jul 2018 00:06:27 +0800</lastBuildDate>
     
 	<atom:link href="https://jeremecausing.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog</title>
+      <link>https://jeremecausing.com/tags/blog/</link>
+      <pubDate>Thu, 05 Jul 2018 00:06:27 +0800</pubDate>
+      
+      <guid>https://jeremecausing.com/tags/blog/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Git</title>
@@ -17,6 +26,24 @@
       <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
       
       <guid>https://jeremecausing.com/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opinions</title>
+      <link>https://jeremecausing.com/tags/opinions/</link>
+      <pubDate>Thu, 05 Jul 2018 00:06:27 +0800</pubDate>
+      
+      <guid>https://jeremecausing.com/tags/opinions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://jeremecausing.com/tags/programming/</link>
+      <pubDate>Thu, 05 Jul 2018 00:06:27 +0800</pubDate>
+      
+      <guid>https://jeremecausing.com/tags/programming/</guid>
       <description></description>
     </item>
     
