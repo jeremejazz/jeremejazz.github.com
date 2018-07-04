@@ -1,10 +1,10 @@
 ---
 title: "Contact"
 date: 2017-09-10T22:47:58+08:00
-category: ['misc']
 comments:       false
 showMeta:       false
-
+showSocial: false
+showActions: false
 ---
 
 <form class="pure-form" action="" method="POST" name="contact" id="contactForm" netlify>
