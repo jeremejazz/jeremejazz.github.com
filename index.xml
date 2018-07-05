@@ -23,6 +23,16 @@ Based on my experience, this the list of some traits in people who can be consid
     </item>
     
     <item>
+      <title>About</title>
+      <link>https://jeremecausing.com/about/</link>
+      <pubDate>Wed, 04 Jul 2018 23:50:27 +0800</pubDate>
+      
+      <guid>https://jeremecausing.com/about/</guid>
+      <description>I am a Software Developer in Metro Manila.
+languages = [&amp;#39;Javascript&amp;#39;, &amp;#39;Python&amp;#39;, &amp;#39;Go&amp;#39;] databases = [&amp;#39;PostgreSQL&amp;#39;,&amp;#39;MongoDB&amp;#39;] frameworks = [&amp;#39;Express&amp;#39;,&amp;#39;Bootstrap&amp;#39;] skills = languages + databases + frameworks  </description>
+    </item>
+    
+    <item>
       <title>Devcon Summit PH 2017: A Retrospective</title>
       <link>https://jeremecausing.com/2017/11/devcon-summit-ph-2017-a-retrospective/</link>
       <pubDate>Sun, 26 Nov 2017 13:53:13 +0800</pubDate>
