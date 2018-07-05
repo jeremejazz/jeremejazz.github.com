@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jeremecausing.com/post/signs-of-a-fake-programmer/</loc>
+    <loc>https://jeremecausing.com/2018/07/signs-of-a-fake-programmer/</loc>
     <lastmod>2018-07-05T00:06:27+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jeremecausing.com/post/devcon-summit-ph-2017-a-retrospective/</loc>
+    <loc>https://jeremecausing.com/2017/11/devcon-summit-ph-2017-a-retrospective/</loc>
     <lastmod>2017-11-26T13:53:13+08:00</lastmod>
   </url>
   
@@ -23,7 +23,7 @@
   </url>
   
   <url>
-    <loc>https://jeremecausing.com/post/the-importance-of-distributed-version-control-systems/</loc>
+    <loc>https://jeremecausing.com/2015/11/the-importance-of-distributed-version-control-systems/</loc>
     <lastmod>2015-11-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -37,13 +37,13 @@
   </url>
   
   <url>
-    <loc>https://jeremecausing.com/tags/blog/</loc>
+    <loc>https://jeremecausing.com/categories/blog/</loc>
     <lastmod>2018-07-05T00:06:27+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jeremecausing.com/categories/blog/</loc>
+    <loc>https://jeremecausing.com/tags/blog/</loc>
     <lastmod>2018-07-05T00:06:27+08:00</lastmod>
     <priority>0</priority>
   </url>
