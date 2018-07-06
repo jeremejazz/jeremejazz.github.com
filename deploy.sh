@@ -24,13 +24,13 @@ fi
 echo "Starting deployment... press enter to Continue. CTRL + C to cancel"
 read -p "Press enter to continue"
  
-# Commit and push to master
-# Commit and push to master
-git add -A
-git commit -m "$msg" && git push origin master
-
 # Push the public subtree to the gh-pages branch
 git subtree push --prefix=public git@github.com:jeremejazz/jeremejazz.github.com.git master
  
+rm -rf public 
+
+# Commit and push to master
+git add -A
+git commit -m "$msg" && git push origin master
 
 #enter credentials here  
