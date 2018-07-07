@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jeremecausing.com/2018/07/from-wordpress-to-static-html/</loc>
+    <lastmod>2018-07-07T16:06:42+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jeremecausing.com/2018/07/signs-of-a-fake-programmer/</loc>
     <lastmod>2018-07-05T00:06:27+08:00</lastmod>
   </url>
@@ -38,26 +43,38 @@
   </url>
   
   <url>
+    <loc>https://jeremecausing.com/categories/blog/</loc>
+    <lastmod>2018-07-07T16:06:42+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jeremecausing.com/tags/blog/</loc>
     <lastmod>2018-07-05T00:06:27+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jeremecausing.com/categories/blog/</loc>
-    <lastmod>2018-07-05T00:06:27+08:00</lastmod>
+    <loc>https://jeremecausing.com/tags/blogging/</loc>
+    <lastmod>2018-07-07T16:06:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jeremecausing.com/categories/</loc>
-    <lastmod>2018-07-05T00:06:27+08:00</lastmod>
+    <lastmod>2018-07-07T16:06:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jeremecausing.com/categories/development/</loc>
     <lastmod>2015-11-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jeremecausing.com/tags/development/</loc>
+    <lastmod>2018-07-07T16:06:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -69,7 +86,7 @@
   
   <url>
     <loc>https://jeremecausing.com/</loc>
-    <lastmod>2018-07-05T00:06:27+08:00</lastmod>
+    <lastmod>2018-07-07T16:06:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -81,7 +98,7 @@
   
   <url>
     <loc>https://jeremecausing.com/post/</loc>
-    <lastmod>2018-07-05T00:06:27+08:00</lastmod>
+    <lastmod>2018-07-07T16:06:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   

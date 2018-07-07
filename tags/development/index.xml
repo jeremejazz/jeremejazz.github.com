@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Jereme Causing - Software Developer</title>
-    <link>https://jeremecausing.com/categories/blog/</link>
-    <description>Recent content in Blog on Jereme Causing - Software Developer</description>
+    <title>Development on Jereme Causing - Software Developer</title>
+    <link>https://jeremecausing.com/tags/development/</link>
+    <description>Recent content in Development on Jereme Causing - Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Jul 2018 16:06:42 +0800</lastBuildDate>
     
-	<atom:link href="https://jeremecausing.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jeremecausing.com/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,17 +22,6 @@
 &lt;p&gt;For years, Wordpress has become the best choice in publishing a self-hosted blog. From its user friendly content management to the available plugins and themes where most of even come for free. Perhaps Wordpress has also become the defacto application for blogging especially to whose who prefer simple yet powerful features. One of the main reasons of using Wordpress and other content management is to make editing dynamic.
 
 For years, I have been using wordpress for my personal website and the application just gets better on every update. Since it is written in PHP, it is not that expensive to find a good hosting website that cost less on websites like Hostinger and Hostgator. Hosting your own website allows you to maximize the customization and even gives more extensibility.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Signs of a &#34;Fake Programmer&#34;</title>
-      <link>https://jeremecausing.com/2018/07/signs-of-a-fake-programmer/</link>
-      <pubDate>Thu, 05 Jul 2018 00:06:27 +0800</pubDate>
-      
-      <guid>https://jeremecausing.com/2018/07/signs-of-a-fake-programmer/</guid>
-      <description>Programming is not just a skill, it’s a mindset. I’m not saying a programmer has to be a perfect coder but there are some aspects that one needs to prove especially when facing difficult scenarios.
-Despite of having a very good candidate screening, there are still a lot of instances where event the best intensions of the organization cannot prevent having programmers who don&amp;rsquo;t even seem to fit in.
-Based on my experience, this the list of some traits in people who can be considered a &amp;ldquo;fake programmer&amp;rdquo;:</description>
     </item>
     
   </channel>
