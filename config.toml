@@ -15,7 +15,7 @@
 baseurl = "https://jeremecausing.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Jereme Causing"
+title = "Jereme Causing - Software Developer"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "jeremecausing"
 googleAnalytics = "UA-59805255-1"
