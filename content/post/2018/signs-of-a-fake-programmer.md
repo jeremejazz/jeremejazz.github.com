@@ -2,6 +2,7 @@
 title: "Signs of a \"Fake Programmer\""
 date: 2018-07-05T00:06:27+08:00
 draft: false
+author: jereme
 categories:
 - blog
 tags:
@@ -12,10 +13,13 @@ keywords:
 - tech
 - programming
 - answers
-#thumbnailImage: //example.com/image.jpg
-
+thumbnailImagePosition: left
+thumbnail_image: trie
+autoThumbnailImage: yes
+coverImage: /images/2018/computer_guy_swirl.png
+thumbnailImage: /images/2018/tn_computer_guy_swirl.png
 ---
-![That guy](/images/computer_guy_swirl.png)
+
 
 Programming is not just a skill, it’s a mindset. I’m not saying a programmer has to be a perfect coder but there are some aspects that one needs to prove especially when facing difficult scenarios. 
 

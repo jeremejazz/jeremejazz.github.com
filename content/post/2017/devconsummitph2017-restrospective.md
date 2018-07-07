@@ -2,6 +2,8 @@
 title: "Devcon Summit PH 2017: A Retrospective"
 date: 2017-11-26T13:53:13+08:00
 draft: false
+thumbnailImagePosition: left
+autoThumbnailImage: yes
 coverImage: https://res.cloudinary.com/jereme/image/upload/v1511674146/devcon/panel_lllth1.jpg
 ---
 
