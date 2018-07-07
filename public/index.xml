@@ -6,10 +6,23 @@
     <description>Recent content on Jereme Causing - Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jul 2018 00:06:27 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jul 2018 16:06:42 +0800</lastBuildDate>
     
 	<atom:link href="https://jeremecausing.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>From Wordpress to Static HTML</title>
+      <link>https://jeremecausing.com/2018/07/from-wordpress-to-static-html/</link>
+      <pubDate>Sat, 07 Jul 2018 16:06:42 +0800</pubDate>
+      
+      <guid>https://jeremecausing.com/2018/07/from-wordpress-to-static-html/</guid>
+      <description>&lt;!-- toc --&gt;
+
+&lt;p&gt;For years, Wordpress has become the best choice in publishing a self-hosted blog. From its user friendly content management to the available plugins and themes where most of even come for free. Perhaps Wordpress has also become the defacto application for blogging especially to whose who prefer simple yet powerful features. One of the main reasons of using Wordpress and other content management is to make editing dynamic.
+
+For years, I have been using wordpress for my personal website and the application just gets better on every update. Since it is written in PHP, it is not that expensive to find a good hosting website that cost less on websites like Hostinger and Hostgator. Hosting your own website allows you to maximize the customization and even gives more extensibility.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Signs of a &#34;Fake Programmer&#34;</title>
