@@ -18,6 +18,7 @@ thumbnailImagePosition: left
 thumbnail_image: true
 autoThumbnailImage: yes
 thumbnailImage: /images/2018/wordpress.png
+coverImage: /images/2018/wordpress_sea.jpg
 ---
 
 <!-- toc -->
@@ -60,3 +61,7 @@ Some static site generators offer simple configurtion that allows the user to ch
 # Conclusion
 
 Static Site generator is a good alternative to web content management systems. Though when deciding whether to use them or not there some advantages and disadvantages that needs to be carefully considered. I chose static site generator specifically for my blog simply to cut down costs and since cloud computing is becoming available and cheaper I would also like to utilize these available tools since a lot of things are changing now. I'm not saying using content management systems are bad, they are still good in many ways and there are a lot of things static site generators alone cannot do. Since they are self-hosted, they both give you full customization of your website compared to online blogging services. 
+
+
+---
+<small>Cover image by https://pixabay.com under CC0 Creative Commons license</small>
