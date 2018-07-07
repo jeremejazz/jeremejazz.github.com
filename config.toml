@@ -34,7 +34,7 @@ pygmentsUseClasses=true
 
 [author]
   name = "Jereme Causing"
-  bio = "Seasoned Programmer"
+  bio = "Seasoned Developer"
   job = "Software Developer"
   location = "Philippines"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -124,7 +124,7 @@ pygmentsUseClasses=true
   # keywords = ["development", "next-gen"]
 
   # Hide sidebar on all article page to let article take full width to improve reading, and enjoy wide images and cover images. (true: enable, false: disable)
-  clearReading = true
+  clearReading = false
 
   # Define categories will create hierarchy between parents: `categories = ["foo", "bar"]` will consider "bar" a sub-category of "foo". 
   # If false it will flat categories.

@@ -14,7 +14,7 @@ keywords:
 - programming
 - answers
 thumbnailImagePosition: left
-thumbnail_image: trie
+thumbnail_image: true
 autoThumbnailImage: yes
 coverImage: /images/2018/computer_guy_swirl.png
 thumbnailImage: /images/2018/tn_computer_guy_swirl.png
