@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Jereme Causing: Developer</title>
+    <link>https://jeremecausing.com/tags/news/</link>
+    <description>Recent content in News on Jereme Causing: Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jeremecausing.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dealing with Fake News in Social Media</title>
+      <link>https://jeremecausing.com/2016/11/dealing-with-fake-news-in-social-media/</link>
+      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremecausing.com/2016/11/dealing-with-fake-news-in-social-media/</guid>
+      <description>These days, due to the popularity of social media apps such as Facebook, people are now able to share thing easily. Here in the Philippines, telecommunication companies are providing free (or if not cheap) Facebook usage which has caused everyone to have access to the website since majority of the users have smartphones. A major problem though is that sometimes users take this for granted and share unreliable information which become viral as well.</description>
+    </item>
+    
+  </channel>
+</rss>

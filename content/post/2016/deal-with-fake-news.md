@@ -1,18 +1,22 @@
 ---
-title: "How to Deal With Fake News in Social Media"
+title: "Dealing with Fake News in Social Media"
 date: 2016-11-24 00:00:00
 tags:
   - opinions
   - news
-draft: true
+draft: false
 author: jereme
 categories:
-  - Development
+  - Blog
+thumbnailImagePosition: left
+
+coverImage: /images/2016/fake-news-cover.jpg
+thumbnailImage: /images/2016/tn_fake-news.jpg
 ---
 
  
 These days, due to the popularity of social media apps such as Facebook, people are now able to share thing easily. Here in the Philippines, telecommunication companies are providing free (or if not cheap) Facebook usage which has caused everyone to have access to the website since majority of the users have smartphones. A major problem though is that sometimes users take this for granted and share unreliable information which become viral as well.
-
+<!-- more -->
 Just recently, Facebook CEO and Founder Mark Zuckerberg has announced that they are working on a way to stop fake news. It seems that this would take a good effort in building this since machine learning would also be involved. But we don’t have to wait for this since it might take them some time and all this just needs is human intelligence which we already initially have.
 
 Fake information has been already around the internet even on its early days. Chains mails ranging from the superstitious “spread this to your friends or die” up to some fake scientific or medical researches to fake news that often spread in discussion boards and emails. Although the email is no longer a main source of communication these days as it is left for business and formal uses instead, sharing these types of information has leveled up to broadcasting them publicly with higher chances of being viewed.
