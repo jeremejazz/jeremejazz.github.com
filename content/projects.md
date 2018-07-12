@@ -4,7 +4,7 @@ date: 2017-09-10T23:19:08+08:00
 comments:       false
 showMeta:       false
 showSocial: false
-showActions: false
+showActions: true
 ---
 
 ## Applications

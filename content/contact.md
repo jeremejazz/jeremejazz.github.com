@@ -4,7 +4,7 @@ date: 2017-09-10T22:47:58+08:00
 comments:       false
 showMeta:       false
 showSocial: false
-showActions: false
+showActions: true
 ---
 
 <form class="pure-form" action="" method="POST" name="contact" id="contactForm" netlify>

@@ -15,7 +15,7 @@
 baseurl = "https://jeremecausing.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Jereme Causing - Software Developer"
+title = "Jereme Causing: Developer"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "jeremecausing"
 googleAnalytics = "UA-59805255-1"
@@ -34,7 +34,7 @@ pygmentsUseClasses=true
 
 [author]
   name = "Jereme Causing"
-  bio = "Seasoned Developer"
+  bio = "Developer/Blogger/Ninja"
   job = "Software Developer"
   location = "Philippines"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -207,10 +207,10 @@ pygmentsUseClasses=true
     icon = "fa-google-plus"
     url = "https://plus.google.com/share?url=%s"
 
-#  [params.header.rightLink]
-#    class = ""
-#    icon = ""
-#    url = "/#about"
+ [params.header.rightLink]
+   class = ""
+   icon = ""
+   url = "/#about"
 
   # Customize link of author avatar in sidebar
   # [params.sidebar.profile]
