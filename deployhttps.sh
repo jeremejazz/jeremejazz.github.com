@@ -22,7 +22,8 @@ fi
 
 # Commit and push to master
 git add -A
-git commit -m "$msg" && git push origin master
+git commit -m "$msg" 
+# && git push origin master
 
 
 # echo "Starting deployment... press enter to Continue. CTRL + C to cancel"
