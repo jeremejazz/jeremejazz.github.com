@@ -17,7 +17,7 @@
     
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="generator" content="Hugo 0.43 with theme Tranquilpeak 0.4.3-BETA">
+    <meta name="generator" content="Hugo 0.42.2 with theme Tranquilpeak 0.4.3-BETA">
     <title>Contact</title>
     <meta name="author" content="Jereme Causing">
     <meta name="keywords" content="">
@@ -26,15 +26,18 @@
     
 
     
-    <meta name="description" content="Name   Email Address     Message     Send    ">
-    <meta property="og:description" content="Name   Email Address     Message     Send    ">
+    <meta name="description" content="You can also send me an email by filling up the following form:
+Name     Email Address     Message     Send    ">
+    <meta property="og:description" content="You can also send me an email by filling up the following form:
+Name     Email Address     Message     Send    ">
     <meta property="og:type" content="blog">
     <meta property="og:title" content="Contact">
     <meta property="og:url" content="/contact/">
     <meta property="og:site_name" content="Jereme Causing: Developer">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Jereme Causing: Developer">
-    <meta name="twitter:description" content="Name   Email Address     Message     Send    ">
+    <meta name="twitter:description" content="You can also send me an email by filling up the following form:
+Name     Email Address     Message     Send    ">
     
       <meta name="twitter:creator" content="@jeremecausing">
     
@@ -220,13 +223,18 @@ if (!doNotTrack) {
           
           <div class="post-content markdown" itemprop="articleBody">
             <div class="main-content-wrap">
-              <form class="pure-form" action="" method="POST" name="contact" id="contactForm" netlify>
+              <p>You can also send me an email by filling up the following form:</p>
+
+<form class="pure-form" action="" method="POST" name="contact" id="contactForm" netlify-honeypot="email" netlify>
     <div class="row control-group">
         <div class="form-group col-xs-12 floating-label-form-group controls">
             <label>Name</label>
             <input type="text" name="name" class="form-control" placeholder="Name" id="name" required data-validation-required-message="Please enter your name.">
             <p class="help-block text-danger"></p>
         </div>
+    </div>
+    <div style="display:none;">
+         <label><input name="email" type="email" /></label>
     </div>
     <div class="row control-group">
         <div class="form-group col-xs-12 floating-label-form-group controls">
@@ -486,23 +494,6 @@ Blockchains This field offered new opportunities in the industry apart from cryp
           <div class="media">
             
             <div class="media-body">
-              <a class="link-unstyled" href="https://jeremecausing.com/2016/11/dealing-with-fake-news-in-social-media/">
-                <h3 class="media-heading">Dealing with Fake News in Social Media</h3>
-              </a>
-              <span class="media-meta">
-                <span class="media-date text-small">
-                  Nov 11, 2016
-                </span>
-              </span>
-              <div class="media-content hide-xs font-merryweather">These days, due to the popularity of social media apps such as Facebook, people are now able to share thing easily. Here in the Philippines, telecommunication companies are providing free (or if not cheap) Facebook usage which has caused everyone to have access to the website since majority of the users have smartphones. A major problem though is that sometimes users take this for granted and share unreliable information which become viral as well.</div>
-            </div>
-            <div style="clear:both;"></div>
-            <hr>
-          </div>
-        
-          <div class="media">
-            
-            <div class="media-body">
               <a class="link-unstyled" href="https://jeremecausing.com/2015/11/the-importance-of-distributed-version-control-systems/">
                 <h3 class="media-heading">The Importance of Distributed Version Control Systems</h3>
               </a>
@@ -526,7 +517,7 @@ For those who don’t know what distributed version control is, it is an automat
          data-message-zero="no post found"
          data-message-one="1 post found"
          data-message-other="{n} posts found">
-         5 posts found
+         4 posts found
       </p>
     </div>
   </div>
