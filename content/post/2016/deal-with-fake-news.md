@@ -4,7 +4,7 @@ date: 2016-11-24 00:00:00
 tags:
   - opinions
   - news
-draft: true
+draft: false
 author: jereme
 categories:
   - Development

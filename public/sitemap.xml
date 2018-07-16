@@ -33,6 +33,11 @@
   </url>
   
   <url>
+    <loc>https://jeremecausing.com/2016/11/how-to-deal-with-fake-news-in-social-media/</loc>
+    <lastmod>2016-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jeremecausing.com/2015/11/the-importance-of-distributed-version-control-systems/</loc>
     <lastmod>2015-11-21T00:00:00+00:00</lastmod>
   </url>
@@ -43,14 +48,14 @@
   </url>
   
   <url>
-    <loc>https://jeremecausing.com/tags/blog/</loc>
-    <lastmod>2018-07-05T00:06:27+08:00</lastmod>
+    <loc>https://jeremecausing.com/categories/blog/</loc>
+    <lastmod>2018-07-07T16:06:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jeremecausing.com/categories/blog/</loc>
-    <lastmod>2018-07-07T16:06:42+08:00</lastmod>
+    <loc>https://jeremecausing.com/tags/blog/</loc>
+    <lastmod>2018-07-05T00:06:27+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -67,14 +72,14 @@
   </url>
   
   <url>
-    <loc>https://jeremecausing.com/tags/development/</loc>
-    <lastmod>2018-07-07T16:06:42+08:00</lastmod>
+    <loc>https://jeremecausing.com/categories/development/</loc>
+    <lastmod>2016-11-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jeremecausing.com/categories/development/</loc>
-    <lastmod>2015-11-21T00:00:00+00:00</lastmod>
+    <loc>https://jeremecausing.com/tags/development/</loc>
+    <lastmod>2018-07-07T16:06:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -87,6 +92,12 @@
   <url>
     <loc>https://jeremecausing.com/</loc>
     <lastmod>2018-07-07T16:06:42+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jeremecausing.com/tags/news/</loc>
+    <lastmod>2016-11-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
