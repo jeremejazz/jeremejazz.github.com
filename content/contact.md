@@ -7,13 +7,18 @@ showSocial: false
 showActions: true
 ---
 
-<form class="pure-form" action="" method="POST" name="contact" id="contactForm" netlify>
+You can also send me an email by filling up the following form: 
+
+<form class="pure-form" action="" method="POST" name="contact" id="contactForm" netlify-honeypot="email" netlify>
     <div class="row control-group">
         <div class="form-group col-xs-12 floating-label-form-group controls">
             <label>Name</label>
             <input type="text" name="name" class="form-control" placeholder="Name" id="name" required data-validation-required-message="Please enter your name.">
             <p class="help-block text-danger"></p>
         </div>
+    </div>
+    <div style="display:none;">
+         <label><input name="email" type="email" /></label>
     </div>
     <div class="row control-group">
         <div class="form-group col-xs-12 floating-label-form-group controls">
