@@ -43,7 +43,7 @@
   </url>
   
   <url>
-    <loc>https://jeremecausing.com/archives/</loc>
+    <loc>https://jeremecausing.com/authors/</loc>
     <priority>0</priority>
   </url>
   
@@ -55,7 +55,13 @@
   
   <url>
     <loc>https://jeremecausing.com/categories/blog/</loc>
-    <lastmod>2018-07-07T16:06:42+08:00</lastmod>
+    <lastmod>2016-11-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jeremecausing.com/categories/blog/</loc>
+    <lastmod>2016-11-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -67,7 +73,7 @@
   
   <url>
     <loc>https://jeremecausing.com/categories/</loc>
-    <lastmod>2018-07-07T16:06:42+08:00</lastmod>
+    <lastmod>2016-11-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -92,7 +98,6 @@
   <url>
     <loc>https://jeremecausing.com/</loc>
     <lastmod>2018-07-07T16:06:42+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -108,6 +113,12 @@
   </url>
   
   <url>
+    <loc>https://jeremecausing.com/page/</loc>
+    <lastmod>2018-07-04T23:50:27+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jeremecausing.com/post/</loc>
     <lastmod>2018-07-07T16:06:42+08:00</lastmod>
     <priority>0</priority>
@@ -116,6 +127,11 @@
   <url>
     <loc>https://jeremecausing.com/tags/programming/</loc>
     <lastmod>2018-07-05T00:06:27+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jeremecausing.com/series/</loc>
     <priority>0</priority>
   </url>
   

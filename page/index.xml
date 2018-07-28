@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Jereme Causing</title>
+    <link>https://jeremecausing.com/page/</link>
+    <description>Recent content in Pages on Jereme Causing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Deploys on netlify.com | Theme by Minimo</copyright>
+    <lastBuildDate>Wed, 04 Jul 2018 23:50:27 +0800</lastBuildDate>
+    
+	<atom:link href="https://jeremecausing.com/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://jeremecausing.com/about/</link>
+      <pubDate>Wed, 04 Jul 2018 23:50:27 +0800</pubDate>
+      
+      <guid>https://jeremecausing.com/about/</guid>
+      <description>languages = [&amp;#39;Javascript&amp;#39;, &amp;#39;Python&amp;#39;, &amp;#39;Go&amp;#39;, ] databases = [&amp;#39;PostgreSQL&amp;#39;, &amp;#39;MongoDB&amp;#39;, &amp;#39;MySQL&amp;#39;, &amp;#39;MS SQL Server&amp;#39;, ] frameworks = [&amp;#39;Express&amp;#39;, &amp;#39;Bootstrap&amp;#39;, ] skills = [languages + databases + frameworks  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://jeremecausing.com/projects/</link>
+      <pubDate>Sun, 10 Sep 2017 23:19:08 +0800</pubDate>
+      
+      <guid>https://jeremecausing.com/projects/</guid>
+      <description> Applications  PHPPad - Run input PHP scripts on the web browser Olivarez Maps - Indoor university maps XtremeLoader - Hybrid App for eload (WIP) 19EastApp - Fetches schedule for upcoming gigs  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jeremecausing.com/contact/</link>
+      <pubDate>Sun, 10 Sep 2017 22:47:58 +0800</pubDate>
+      
+      <guid>https://jeremecausing.com/contact/</guid>
+      <description>You can also send me an email by filling up the following form:
+Name     Email Address     Message     Send    </description>
+    </item>
+    
+  </channel>
+</rss>
