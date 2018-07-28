@@ -4,7 +4,7 @@ date: 2017-11-26T13:53:13+08:00
 draft: false
 thumbnailImagePosition: left
 autoThumbnailImage: yes
-coverImage: https://res.cloudinary.com/jereme/image/upload/v1511674146/devcon/panel_lllth1.jpg
+cover: https://res.cloudinary.com/jereme/image/upload/v1511674146/devcon/panel_lllth1.jpg
 ---
 
 Devcon, a non-profit organization that aids developers, held it's 2-day summit last November 18, 2017 at SM Aura, BGC, Taguig.

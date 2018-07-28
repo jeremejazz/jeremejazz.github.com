@@ -10,7 +10,7 @@ categories:
   - Blog
 thumbnailImagePosition: left
 
-coverImage: /images/2016/fake-news-cover.jpg
+cover: /images/2016/fake-news-cover.jpg
 thumbnailImage: /images/2016/tn_fake-news.jpg
 ---
 

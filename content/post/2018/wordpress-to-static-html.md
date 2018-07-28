@@ -18,7 +18,7 @@ thumbnailImagePosition: left
 thumbnail_image: true
 autoThumbnailImage: yes
 thumbnailImage: /images/2018/wordpress.png
-coverImage: /images/2018/wordpress_sea.jpg
+cover: /images/2018/wordpress_sea.jpg
 ---
 
 <!-- toc -->
