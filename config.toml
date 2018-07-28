@@ -1,12 +1,12 @@
-baseURL = "http://www.example.com"
+baseURL = "https://jeremecausing.com"
 title = "Jereme Causing"
 # for smart copyright line, leave this blank and check [params.copyright]
-copyright = ""
+copyright = "Deploys on netlify.com | Theme by Minimo"
 
 theme = "minimo"
 
-disqusShortname = ""
-googleAnalytics = ""
+disqusShortname = "jeremecausing"
+googleAnalytics = "UA-59805255-1"
 
 Paginate = 5
 preserveTaxonomyNames = true
@@ -86,15 +86,15 @@ twitter = "jeremecausing"
 [params.comments]
 enable = false
 
-# [params.comments.staticman]
-# enable = true
-# apiEndpoint = "https://api.staticman.net/v2/entry"
-# maxDepth = 2
+[params.comments.staticman]
+enable = true
+apiEndpoint = "https://api.staticman.net/v2/entry"
+maxDepth = 2
 
-# [params.comments.staticman.github]
-# username = "MunifTanjim"
-# repository = "minimo"
-# branch = "master"
+[params.comments.staticman.github]
+username = "MunifTanjim"
+repository = "minimo"
+branch = "master"
 
 # Utterances: https://utteranc.es
 [params.comments.utterances]
