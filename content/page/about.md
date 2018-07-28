@@ -12,9 +12,18 @@ showActions: true
 
 {{< highlight python >}}
 
-languages = ['Javascript', 'Python', 'Go']
-databases = ['PostgreSQL','MongoDB']
-frameworks = ['Express','Bootstrap']
+languages = ['Javascript', 
+            'Python', 
+            'Go',
+            ]
+databases = ['PostgreSQL',
+            'MongoDB',
+            'MySQL',
+            'MS SQL Server',
+            ]
+frameworks = ['Express',
+            'Bootstrap',
+            ]
 
-skills = languages + databases + frameworks 
+skills = [languages + databases + frameworks 
 {{< /highlight >}}
