@@ -84,7 +84,7 @@ twitter = "jeremecausing"
 # youtube = "UCT-U0rNerYxItGcuoPX-WYA"
 
 [params.comments]
-enable = false
+enable = true
 
 [params.comments.staticman]
 enable = true
@@ -142,8 +142,14 @@ identifier = "blog"
 url = "/post"
 
 [[menu.main]]
-name = "Contact"
+name = "Projects"
 weight = 4
+identifier = "projects"
+url = "/projects"
+
+[[menu.main]]
+name = "Contact"
+weight = 5
 identifier = "contact"
 url = "/contact"
 
