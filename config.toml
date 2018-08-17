@@ -87,13 +87,13 @@ twitter = "jeremecausing"
 enable = true
 
 [params.comments.staticman]
-enable = true
+enable = false
 apiEndpoint = "https://api.staticman.net/v2/entry"
 maxDepth = 2
 
 [params.comments.staticman.github]
-username = "MunifTanjim"
-repository = "minimo"
+username = "jeremejazz"
+repository = "jeremejazz.github.io"
 branch = "master"
 
 # Utterances: https://utteranc.es
@@ -142,14 +142,8 @@ identifier = "blog"
 url = "/post"
 
 [[menu.main]]
-name = "Projects"
-weight = 4
-identifier = "projects"
-url = "/projects"
-
-[[menu.main]]
 name = "Contact"
-weight = 5
+weight = 4
 identifier = "contact"
 url = "/contact"
 
