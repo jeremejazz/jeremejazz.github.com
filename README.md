@@ -9,7 +9,6 @@ Automation for updating website [jeremecausing.com](http://jeremecausing.com)
 
 
 ### Softwares Used
-Hugo v0.26
-Hugo Tranquilpeak Theme 
-
+Hugo v0.46
+Minimo 2.6.0
 
