@@ -6,22 +6,12 @@
     <description>Recent content in Tags on Jereme Causing</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Deploys on netlify.com | Theme by Minimo</copyright>
-    <lastBuildDate>Thu, 05 Jul 2018 00:06:27 +0800</lastBuildDate>
     
 	<atom:link href="https://jeremecausing.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blog</title>
-      <link>https://jeremecausing.com/tags/blog/</link>
-      <pubDate>Thu, 05 Jul 2018 00:06:27 +0800</pubDate>
-      
-      <guid>https://jeremecausing.com/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blogging</title>
+      <title>blogging</title>
       <link>https://jeremecausing.com/tags/blogging/</link>
       <pubDate>Sat, 07 Jul 2018 16:06:42 +0800</pubDate>
       
@@ -30,7 +20,7 @@
     </item>
     
     <item>
-      <title>Development</title>
+      <title>development</title>
       <link>https://jeremecausing.com/tags/development/</link>
       <pubDate>Sat, 07 Jul 2018 16:06:42 +0800</pubDate>
       
@@ -39,7 +29,7 @@
     </item>
     
     <item>
-      <title>Git</title>
+      <title>git</title>
       <link>https://jeremecausing.com/tags/git/</link>
       <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
       
@@ -48,7 +38,7 @@
     </item>
     
     <item>
-      <title>News</title>
+      <title>news</title>
       <link>https://jeremecausing.com/tags/news/</link>
       <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
       
@@ -57,25 +47,16 @@
     </item>
     
     <item>
-      <title>Opinions</title>
+      <title>opinions</title>
       <link>https://jeremecausing.com/tags/opinions/</link>
-      <pubDate>Thu, 05 Jul 2018 00:06:27 +0800</pubDate>
+      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://jeremecausing.com/tags/opinions/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Programming</title>
-      <link>https://jeremecausing.com/tags/programming/</link>
-      <pubDate>Thu, 05 Jul 2018 00:06:27 +0800</pubDate>
-      
-      <guid>https://jeremecausing.com/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Version control</title>
+      <title>version control</title>
       <link>https://jeremecausing.com/tags/version-control/</link>
       <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
       
