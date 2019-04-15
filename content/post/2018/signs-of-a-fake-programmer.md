@@ -1,7 +1,7 @@
 ---
 title: "Signs of a \"Fake Programmer\""
 date: 2018-07-05T00:06:27+08:00
-draft: false
+draft: true
 author: jereme
 categories:
 - blog
