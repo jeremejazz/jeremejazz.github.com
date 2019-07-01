@@ -52,8 +52,8 @@ hideMainMenu = false
 enable = true
 
 [params.widgets]
-homepage = []
-sidebar = []
+homepage = ["recent_posts"]
+sidebar = ["about"]
 footer = ["social_menu"]
 
 
