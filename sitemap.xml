@@ -1,6 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jeremecausing.com/categories/blog/</loc>
+    <lastmod>2018-07-07T16:06:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremecausing.com/tags/blogging/</loc>
+    <lastmod>2018-07-07T16:06:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremecausing.com/categories/</loc>
+    <lastmod>2018-07-07T16:06:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremecausing.com/tags/development/</loc>
+    <lastmod>2018-07-07T16:06:42+08:00</lastmod>
+  </url>
   
   <url>
     <loc>https://jeremecausing.com/2018/07/from-wordpress-to-static-html/</loc>
@@ -8,7 +28,27 @@
   </url>
   
   <url>
+    <loc>https://jeremecausing.com/</loc>
+    <lastmod>2018-07-07T16:06:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremecausing.com/post/</loc>
+    <lastmod>2018-07-07T16:06:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremecausing.com/tags/</loc>
+    <lastmod>2018-07-07T16:06:42+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jeremecausing.com/about/</loc>
+    <lastmod>2018-07-04T23:50:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremecausing.com/page/</loc>
     <lastmod>2018-07-04T23:50:27+08:00</lastmod>
   </url>
   
@@ -33,100 +73,41 @@
   </url>
   
   <url>
-    <loc>https://jeremecausing.com/2015/11/the-importance-of-distributed-version-control-systems/</loc>
-    <lastmod>2015-11-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jeremecausing.com/authors/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jeremecausing.com/categories/blog/</loc>
-    <lastmod>2016-11-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jeremecausing.com/categories/</loc>
-    <lastmod>2016-11-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jeremecausing.com/categories/development/</loc>
-    <lastmod>2015-11-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jeremecausing.com/</loc>
-    <lastmod>2018-07-07T16:06:42+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jeremecausing.com/page/</loc>
-    <lastmod>2018-07-04T23:50:27+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jeremecausing.com/post/</loc>
-    <lastmod>2018-07-07T16:06:42+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jeremecausing.com/series/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jeremecausing.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jeremecausing.com/categories/blog/</loc>
-    <lastmod>2016-11-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jeremecausing.com/tags/blogging/</loc>
-    <lastmod>2018-07-07T16:06:42+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jeremecausing.com/tags/development/</loc>
-    <lastmod>2018-07-07T16:06:42+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jeremecausing.com/tags/git/</loc>
-    <lastmod>2015-11-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jeremecausing.com/tags/news/</loc>
     <lastmod>2016-11-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jeremecausing.com/tags/opinions/</loc>
     <lastmod>2016-11-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jeremecausing.com/categories/development/</loc>
+    <lastmod>2015-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremecausing.com/tags/git/</loc>
+    <lastmod>2015-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremecausing.com/2015/11/the-importance-of-distributed-version-control-systems/</loc>
+    <lastmod>2015-11-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jeremecausing.com/tags/version-control/</loc>
     <lastmod>2015-11-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jeremecausing.com/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jeremecausing.com/series/</loc>
   </url>
   
 </urlset>
