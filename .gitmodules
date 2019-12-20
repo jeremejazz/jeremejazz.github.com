@@ -1,9 +1,0 @@
-[submodule "themes/minimo"]
-	path = themes/minimo
-	url = https://github.com/MunifTanjim/minimo
-[submodule "themes/osprey"]
-	path = themes/osprey
-	url = https://github.com/tomanistor/osprey.git
-[submodule "themes/hermit"]
-	path = themes/hermit
-	url = https://github.com/Track3/hermit.git
